@@ -1,0 +1,66 @@
+# Development and Testing Files
+*-IMPLEMENTATION.md
+*-COMPLETE.md
+*-RESULTS.md
+*-NEEDED.md
+*-ISSUE.md
+*-PLAN.md
+*-GUIDE.md
+*-REFERENCE.md
+TASK-*.md
+TEST-*.md
+TESTS-EXPLAINED.md
+TROUBLESHOOTING-*.md
+ENHANCEMENT-PLAN.md
+BROWSER-COMPATIBILITY-REPORT.md
+BROWSER-TESTING-GUIDE.md
+BROWSER-TESTING-QUICK-START.md
+PERFORMANCE-OPTIMIZATION-GUIDE.md
+PERFORMANCE-QUICK-REFERENCE.md
+
+# Test Files
+test-*.html
+diagnose-*.html
+emergency-*.html
+quick-fix-*.html
+simple-test.html
+verify-*.js
+run-test-server.bat
+
+# Alternative Versions (keep only main index.html)
+index-v2.html
+index-modern.html
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies (if any are added later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build outputs (if build process is added)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
