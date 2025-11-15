@@ -316,7 +316,7 @@ Progress saved to browser localStorage:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ```
-MIT License - Copyright (c) 2024 CodeByArt
+MIT License - Copyright (c) 2025 CodeByArt
 ```
 
 ---
@@ -348,7 +348,7 @@ Contributions are welcome! Here's how you can help:
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/constellation-connect/issues)
 - 💬 **Questions**: [GitHub Discussions](https://github.com/yourusername/constellation-connect/discussions)
-- 📧 **Email**: support@codebyart.com
+- 📧 **Email**: codebyartdev@gmail.com
 - 🌐 **Website**: [CodeByArt.com](https://www.codebyart.com)
 
 ### Social Media
