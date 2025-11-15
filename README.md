@@ -217,40 +217,6 @@ Deploy to any static hosting service:
 
 ---
 
-## 💰 AdSense Integration
-
-The game is designed with AdSense-friendly structure and proper ad spacing.
-
-### Quick Setup
-
-1. **Sign up** for [Google AdSense](https://www.google.com/adsense)
-2. **Get your ad code** from AdSense dashboard
-3. **Insert code** into reserved ad spaces in `index.html`
-
-### Ad Placement Zones
-
-```html
-<!-- Top Ad Space (Above Game) -->
-<div class="codebyart-ad-space-top">
-    <!-- Your AdSense code here -->
-</div>
-
-<!-- Bottom Ad Space (Below Game) -->
-<div class="codebyart-ad-space-bottom">
-    <!-- Your AdSense code here -->
-</div>
-```
-
-### Recommended Ad Sizes
-
-- **Desktop**: 728x90 (leaderboard), 300x250 (rectangle)
-- **Mobile**: 320x50 (banner), 300x250 (rectangle)
-- **Responsive**: Auto-sized units
-
----
-
-## 🛠️ Technical Architecture
-
 ### Core Components
 
 ```
